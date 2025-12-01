@@ -57,7 +57,7 @@ Para replicar el trabajo o revisar los resultados:
 * **Osciloscopio Digital**: Utilizado para la medición de amplitud y retraso (GW Instek, GDS-1000A-U Series).
 
 ### Software (Teórico y Gráfico)
-* **Herramienta Informática**: Utilizada para la predicción teórica y la graficación comparativa de datos. (Comúnmente se usa MATLAB o Python/NumPy/SciPy).
+* **Herramienta Informática**: Utilizada para la predicción teórica y la graficación comparativa de datos.
 * **GeoGebra**: Utilizado para la visualización de funciones y datos.
 
 ## 🔑 Conclusiones
